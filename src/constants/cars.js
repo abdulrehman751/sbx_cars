@@ -1,7 +1,7 @@
 export const CARS_DATA = [
   {
     year: 2010,
-    favorites: 20,
+    favorites: 10,
     make: "Mercedes-Benz",
     model: "SLS AMG",
     location: {
@@ -27,7 +27,7 @@ export const CARS_DATA = [
   },
   {
     year: 2020,
-    favorites: 20,
+    favorites: 30,
     make: "McLaren",
     model: "720S",
     location: {
@@ -40,7 +40,7 @@ export const CARS_DATA = [
   },
   {
     year: 2015,
-    favorites: 20,
+    favorites: 60,
     make: "Porsche",
     model: "911 Turbo S",
     location: {
@@ -53,7 +53,7 @@ export const CARS_DATA = [
   },
   {
     year: 2016,
-    favorites: 20,
+    favorites: 25,
     make: "Aston Martin",
     model: "Vantage GT12",
     location: {
@@ -66,7 +66,7 @@ export const CARS_DATA = [
   },
   {
     year: 1995,
-    favorites: 20,
+    favorites: 48,
     make: "Land Rover",
     model: "Defender 90",
     location: {
@@ -79,41 +79,41 @@ export const CARS_DATA = [
   },
   {
     year: 2019,
-    favorites: 20,
+    favorites: 55,
     make: "Range Rover",
     model: "Autobiography",
     location: {
       city: "Dubai",
       country: "UAE",
     },
-    price: "Not listed",
-    time_left: "Not listed",
+    price: "$80",
+    time_left: "10 days",
     image: "/images/rangeRover.webp",
   },
   {
     year: 1998,
-    favorites: 20,
+    favorites: 28,
     make: "Porsche",
     model: "911 Carrera",
     location: {
       city: "Dubai",
       country: "UAE",
     },
-    price: "Not listed",
-    time_left: "Not listed",
+    price: "$60",
+    time_left: "1 month",
     image: "/images/porsche.webp",
   },
   {
     year: 1955,
-    favorites: 20,
+    favorites: 64,
     make: "AstonMartin2",
     model: "XK140",
     location: {
       city: "London",
       country: "United Kingdom",
     },
-    price: "Not listed",
-    time_left: "Not listed",
+    price: "$100",
+    time_left: "6 days",
     image: "/images/astonMartin2.webp",
   },
 ];
